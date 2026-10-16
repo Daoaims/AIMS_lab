@@ -11,3 +11,4 @@ print(2026)
 >>>>>>> 4a68dc508b94389efd9d487819326ac8a47ab989
 >>>>>>> b2e66e50d2f0cc5b4ed0dcfc92d5e0ad32e7cd50
 #Fonctionnalites principales de l'application
+print(max(3,4,3,5,6))
